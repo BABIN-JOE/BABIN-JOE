@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Babin Joe</h1>
+<h3 align="center">🚀 Software Developer | 🔐 Cybersecurity Aware | 🧠 AI/ML Explorer</h3>
 
-<!--
-**BABIN-JOE/BABIN-JOE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+offline+AI+apps;Open+Source+is+Love;Turning+Ideas+Into+Tech" />
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on:
+  - 🧠 [**NeuroDoc**](https://github.com/BABIN-JOE/NeuroDoc) – AI-powered document summarization with IDP & OCR
+  - 🎙️ [**Fluent Edge**](https://github.com/BABIN-JOE/FLUENT-EDGE) – Real-time transcription + grammar analysis using Vosk & Flask
+
+- 🌱 I’m exploring:
+  - 🤖 Local LLMs & offline-first AI
+  - 🧩 Supabase, Vercel Functions
+  - 🧠 Layout-aware OCR (PaddleOCR, EasyOCR)
+
+- 💬 Ask me about:
+  - Full-stack AI integration
+  - Flask, React, Tailwind, Supabase
+  - Building clean, ethical & practical apps
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,ts,tailwind,vercel,supabase,git,vscode,tensorflow" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+- 🌐 [Portfolio Website](https://babin-joe.vercel.app)
+- 📧 babinjoecoder@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/babin-joe/)
+- 🐙 [GitHub](https://github.com/BABIN-JOE)
+
+---
+
+### 🚀 Featured Projects
+
+| 💼 Project | 📄 Description | ⚙️ Tech |
+|-----------|----------------|--------|
+| 🧠 [NeuroDoc](https://github.com/BABIN-JOE/NeuroDoc) | Intelligent doc parser using OCR + Transformers | Flask, PaddleOCR, PyMuPDF, BART |
+| 🎤 [Fluent Edge](https://github.com/BABIN-JOE/FLUENT-EDGE) | Real-time speech transcription & grammar engine | Vosk, Flask, LanguageTool |
+| 🌐 [babin-joe-glow-site](https://github.com/BABIN-JOE/babin-joe-glow-site) | Personal portfolio with dark/light toggle | React, Tailwind, Vercel |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BABIN-JOE&theme=radical&show_icons=true&count_private=true" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=BABIN-JOE&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BABIN-JOE&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BABIN-JOE&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### ⚡ Fun Facts
+
+- 🎯 Passionate about **offline-first AI** — no internet, no problem.
+- 🎨 UI/UX minimalist – I believe clean interfaces empower users.
+- 🤝 Always open to **collaborations, internships, or freelance** tech gigs.
+
+---
+
+### 🧠 Philosophy
+
+> *"Code smart, build real. AI is the paintbrush — you’re the artist." – Babin Joe*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BABIN-JOE&color=blue" alt="visitors" />
+</p>
