@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Babin Joe</h1>
-<h3 align="center">🚀 Software Developer | 🔐 Cybersecurity Aware | 🧠 AI/ML Explorer</h3>
+<h3 align="center">🚀 Software Developer | 🧠 AI/ML Explorer | 🔐 Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+offline+AI+apps;Open+Source+is+Love;Turning+Ideas+Into+Tech" />
