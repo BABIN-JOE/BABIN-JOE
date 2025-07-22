@@ -14,13 +14,16 @@
 - 🔭 I’m currently working on:
   - 🧠 [**NeuroDoc**](https://github.com/BABIN-JOE/NeuroDoc) – AI-powered document summarization with IDP & OCR
   - 🎙️ [**Fluent Edge**](https://github.com/BABIN-JOE/FLUENT-EDGE) – Real-time transcription + grammar analysis using Vosk & Flask
+  - 🗣️ [**MOCKMATE**](Yet to be deployed) - Real-time AI Mock Interview Platform
 
 - 🌱 I’m exploring:
-  - 🤖 Local LLMs & offline-first AI
-  - 🧩 Supabase, Vercel Functions
-  - 🧠 Layout-aware OCR (PaddleOCR, EasyOCR)
+  - 🤖 AI, SDE, ML, Robotics, Drones,
+  - 🧩 GIT, Firebase, Vercel
+  - 🧠 IDP, OCR (PaddleOCR, EasyOCR), NLP, CV
 
 - 💬 Ask me about:
+  - Software Development
+  - AI Application
   - Full-stack AI integration
   - Flask, React, Tailwind, Supabase
   - Building clean, ethical & practical apps
@@ -30,7 +33,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,ts,tailwind,vercel,supabase,git,vscode,tensorflow,html,css,js,nextjs,redux,firebase,mysql,postgresql,cpp,java,linux,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,react,ts,tailwind,vercel,supabase,git,vscode,tensorflow,html,css,js,nextjs,redux,firebase,mysql,postgresql,cpp,linux,bash" />
 </p>
 
 ---
