@@ -38,7 +38,7 @@
 ### 🔗 Connect With Me
 
 - 🌐 [Portfolio Website](https://babin-joe.vercel.app)
-- 📧 babinjoecoder@gmail.com
+- 📧 babinjoe2945@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/babin-joe/)
 - 🐙 [GitHub](https://github.com/BABIN-JOE)
 
