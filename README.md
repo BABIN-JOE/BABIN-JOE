@@ -50,7 +50,7 @@
 |-----------|----------------|--------|
 | 🧠 [NeuroDoc](https://github.com/BABIN-JOE/NeuroDoc) | Intelligent doc parser using OCR + Transformers | Flask, PaddleOCR, PyMuPDF, BART |
 | 🎤 [Fluent Edge](https://github.com/BABIN-JOE/FLUENT-EDGE) | Real-time speech transcription & grammar engine | Vosk, Flask, LanguageTool |
-| 🌐 [Portfolio](https://github.com/BABIN-JOE/Portfolio) | Personal portfolio with dark/light toggle | React, Tailwind, Vercel |
+| 🌐 [Portfolio](https://github.com/BABIN-JOE/Portfolio) | Personal portfolio with dark/light toggle | React, Typescript, Tailwind, Vercel |
 
 ---
 
