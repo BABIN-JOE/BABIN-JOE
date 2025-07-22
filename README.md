@@ -30,7 +30,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,ts,tailwind,vercel,supabase,git,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,ts,tailwind,vercel,supabase,git,vscode,tensorflow,html,css,js,nextjs,redux,firebase,mysql,postgresql,cpp,java,linux,figma,bash" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 |-----------|----------------|--------|
 | 🧠 [NeuroDoc](https://github.com/BABIN-JOE/NeuroDoc) | Intelligent doc parser using OCR + Transformers | Flask, PaddleOCR, PyMuPDF, BART |
 | 🎤 [Fluent Edge](https://github.com/BABIN-JOE/FLUENT-EDGE) | Real-time speech transcription & grammar engine | Vosk, Flask, LanguageTool |
-| 🌐 [babin-joe-glow-site](https://github.com/BABIN-JOE/babin-joe-glow-site) | Personal portfolio with dark/light toggle | React, Tailwind, Vercel |
+| 🌐 [Portfolio](https://github.com/BABIN-JOE/Portfolio) | Personal portfolio with dark/light toggle | React, Tailwind, Vercel |
 
 ---
 
