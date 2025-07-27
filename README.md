@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on:
   - 🧠 [**NeuroDoc**](https://github.com/BABIN-JOE/NeuroDoc) – AI-powered document summarization with IDP & OCR
   - 🎙️ [**Fluent Edge**](https://github.com/BABIN-JOE/FLUENT-EDGE) – Real-time transcription + grammar analysis using Vosk & Flask
+  - 🌐 [**Portfolio**](https://github.com/BABIN-JOE/Portfolio) – Personal Portfolio using Typescript, React.js and Tailwaind css
   - 🗣️ [**MOCKMATE**](Yet to be deployed) - Real-time AI Mock Interview Platform
 
 - 🌱 I’m exploring:
