@@ -26,7 +26,7 @@
   - Software Development
   - AI Application
   - Full-stack AI integration
-  - Flask, React, Tailwind, Supabase
+  - Problem Solving & DSA
   - Building clean, ethical & practical apps
 
 ---
