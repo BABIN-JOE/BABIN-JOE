@@ -22,7 +22,7 @@
 - 🌱 I’m exploring:
   - 🤖 AI, SDE, ML, Robotics, Drones,
   - 🧩 GIT, Firebase, Vercel
-  - 🧠 IDP, OCR (PaddleOCR, EasyOCR), NLP, CV
+  - 🧠 IDP, OCR, NLP, CV
 
 - 💬 Ask me about:
   - Software Development
