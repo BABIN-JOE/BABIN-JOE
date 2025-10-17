@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I'm Babin Joe</h1>
 <h3 align="center">🚀 Software Developer | 🧠 AI/ML Explorer | 🔐 Programmer</h3>
 
+<!-- Typing SVG with dynamic teal glow -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+AI+Applications;Open+Source+is+Love;Turning+Ideas+Into+Tech;Developing+Softwares" 
-    style="animation: fadeIn 2s ease-in-out;" 
+    style="filter: drop-shadow(0 0 6px #00fff2); animation: pulseGlow 2s infinite alternate ease-in-out;" 
   />
 </p>
 
@@ -16,7 +17,7 @@
     align="right" 
     alt="Coding" 
     width="350" 
-    style="margin-top: 10px; max-width: 100%; display: block; margin-left: auto; margin-right: auto; animation: fadeInRight 2s ease-in-out;" 
+    style="margin-top: 10px; max-width: 100%; display: block; margin-left: auto; margin-right: auto; animation: fadeInRight 2s ease-in-out; filter: drop-shadow(0 0 5px #00fff2);" 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   />
 </picture>
@@ -48,24 +49,24 @@
 ### 🧰 Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=supabase" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bash" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=python" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=java" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=flask" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=ts" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=vercel" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=supabase" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=git" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=vscode" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=css" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=js" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=firebase" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=linux" height="50" /></a>
+  <a href="#" style="filter: drop-shadow(0 0 3px #00fff2); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00fff2)';" onmouseout="this.style.filter='drop-shadow(0 0 3px #00fff2)';"><img src="https://skillicons.dev/icons?i=bash" height="50" /></a>
 </div>
 
 ---
@@ -79,20 +80,5 @@
 
 ---
 
-<!-- Inline Animations + Neon Hover -->
-<div style="text-align:center;">
-  <style scoped>
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes fadeInRight {
-      from { opacity: 0; transform: translateX(20px); }
-      to { opacity: 1; transform: translateX(0); }
-    }
-    a:hover img, a:hover {
-      filter: drop-shadow(0 0 8px #00fff2);
-      transition: 0.3s ease-in-out;
-    }
-  </style>
-</div>
+<!-- Inline Animation keyframes as SVG filters -->
+<img src="https://dummyimage.com/1x1/000000/000000.png" alt="" width="1" height="1" style="animation: none;">
