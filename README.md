@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+AI+Applications;Open+Source+is+Love;Turning+Ideas+Into+Tech;Developing+Softwares" />
 </p>
 
-  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
----
-
+<table>
+  <tr>
+    <td valign="top">
+      
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:
@@ -30,6 +30,13 @@
   - Full-stack AI integration
   - Problem Solving & DSA
   - Building clean, ethical & practical apps
+      
+    </td>
+    <td valign="top" width="350px">
+      <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
