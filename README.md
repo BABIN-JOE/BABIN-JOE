@@ -1,9 +1,20 @@
 <h1 align="center">👋 Hi, I'm Babin Joe</h1>
 <h3 align="center">🚀 Software Developer | 🧠 AI/ML Explorer | 🔐 Programmer</h3>
 
-<p align="center">
+<p align="center" style="animation: fadeIn 2s ease-in-out;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+AI+Applications;Open+Source+is+Love;Turning+Ideas+Into+Tech;Developing+Softwares" />
 </p>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInRight {
+  from { opacity: 0; transform: translateX(30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+</style>
 
 ---
 
@@ -11,7 +22,7 @@
   align="right" 
   alt="Coding" 
   width="350" 
-  style="margin-top: 5px; margin-right: 10px;" 
+  style="margin-top: 5px; margin-right: 10px; animation: fadeInRight 2s ease-in-out;" 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
 />
 
