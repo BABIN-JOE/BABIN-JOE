@@ -7,13 +7,11 @@
 
 ---
 
-<br />
-
 <img 
   align="right" 
   alt="Coding" 
   width="350" 
-  style="margin-top: 15px;" 
+  style="margin-top: 12px;" 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
 />
 
