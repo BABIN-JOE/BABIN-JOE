@@ -44,9 +44,26 @@
 
 ### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,ts,tailwind,vercel,supabase,git,vscode,tensorflow,html,css,js,firebase,mysql,cpp,linux,bash" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" />
+</div>
 
 ---
 
