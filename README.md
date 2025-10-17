@@ -5,15 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+AI+Applications;Open+Source+is+Love;Turning+Ideas+Into+Tech;Developing+Softwares" />
 </p>
 
-<br />
-
 <img 
   align="right" 
   alt="Coding" 
   width="350" 
-  style="margin-top: 15px;" 
+  style="margin-top: 10px;" 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
 />
+
 
 ---
 
