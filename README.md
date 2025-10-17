@@ -1,21 +1,9 @@
 <h1 align="center">👋 Hi, I'm Babin Joe</h1>
 <h3 align="center">🚀 Software Developer | 🧠 AI/ML Explorer | 🔐 Programmer</h3>
 
-<!-- Fade-in animation for typing SVG -->
-<p align="center" style="animation: fadeIn 2s ease-in-out;">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AFFEF&vCenter=true&width=435&lines=Building+AI+Applications;Open+Source+is+Love;Turning+Ideas+Into+Tech;Developing+Softwares" />
 </p>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-@keyframes fadeInRight {
-  from { opacity: 0; transform: translateX(20px); }
-  to { opacity: 1; transform: translateX(0); }
-}
-</style>
 
 ---
 
@@ -25,7 +13,7 @@
     align="right" 
     alt="Coding" 
     width="350" 
-    style="margin-top: 12px; margin-right: 10px; animation: fadeInRight 2s ease-in-out; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" 
+    style="margin-top: 12px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   />
 </picture>
@@ -56,26 +44,9 @@
 
 ### 🧰 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,ts,tailwind,vercel,supabase,git,vscode,tensorflow,html,css,js,firebase,mysql,cpp,linux,bash" />
+</p>
 
 ---
 
