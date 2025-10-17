@@ -7,36 +7,38 @@
 
 ---
 
-<img 
-  align="right" 
-  alt="Coding" 
-  width="350" 
-  style="margin-top: 12px;" 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-/>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img 
+    align="right" 
+    alt="Coding" 
+    width="350" 
+    style="margin-top: 12px; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  />
+</picture>
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:
-  - 🧠 [**NeuroDoc**](https://github.com/BABIN-JOE/NeuroDoc) – AI-powered document summarization with IDP & OCR
-  - 🎙️ [**Fluent Edge**](https://github.com/BABIN-JOE/FLUENT-EDGE) – Real-time transcription + grammar analysis using Vosk & Flask
-  - 🌐 [**Portfolio**](https://github.com/BABIN-JOE/Portfolio) – Personal Portfolio using Typescript, React.js and Tailwaind css
-  - 🗣️ [**MOCK-MATE**](https://github.com/BABIN-JOE/MOCK-MATE) - Mock Interview Platform to develop our Interview and communication skills
-  - 🎂 [**BIRTHDAY-WISH**](https://github.com/BABIN-JOE/BIRTHDAY-WISH) - A Birthday Wishing Website for friends and
-    others with attractive animations and qoutes
-  - ⚕️ [**Healynx**] (Yet to be deployed) - Predictive AI Clinical Intelligence Platform and Medical Database.
+  - 🧠 [**NeuroDoc**](https://github.com/BABIN-JOE/NeuroDoc) – AI-powered document summarization with IDP & OCR  
+  - 🎙️ [**Fluent Edge**](https://github.com/BABIN-JOE/FLUENT-EDGE) – Real-time transcription + grammar analysis using Vosk & Flask  
+  - 🌐 [**Portfolio**](https://github.com/BABIN-JOE/Portfolio) – Personal Portfolio using Typescript, React.js and Tailwaind css  
+  - 🗣️ [**MOCK-MATE**](https://github.com/BABIN-JOE/MOCK-MATE) – Mock Interview Platform to develop our Interview and communication skills  
+  - 🎂 [**BIRTHDAY-WISH**](https://github.com/BABIN-JOE/BIRTHDAY-WISH) – A Birthday Wishing Website with animations and quotes  
+  - ⚕️ [**Healynx**] (Yet to be deployed) – Predictive AI Clinical Intelligence Platform and Medical Database  
 
 - 🌱 I’m exploring:
-  - 🤖 AI, SDE, ML, Robotics, Drones,
-  - 🧩 GIT, Firebase, Vercel
-  - 🧠 IDP, OCR, NLP, CV
+  - 🤖 AI, SDE, ML, Robotics, Drones  
+  - 🧩 GIT, Firebase, Vercel  
+  - 🧠 IDP, OCR, NLP, CV  
 
 - 💬 Ask me about:
-  - Software Development
-  - AI Application
-  - Full-stack AI integration
-  - Problem Solving & DSA
-  - Building clean, ethical & practical apps
+  - Software Development  
+  - AI Application  
+  - Full-stack AI integration  
+  - Problem Solving & DSA  
+  - Building clean, ethical & practical apps  
 
 ---
 
@@ -50,10 +52,10 @@
 
 ### 🔗 Connect With Me
 
-- 🌐 [Portfolio Website](https://babin-joe.vercel.app)
-- 📧 babinjoe2945@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/babin-joe/)
-- 🐙 [GitHub](https://github.com/BABIN-JOE)
+- 🌐 [Portfolio Website](https://babin-joe.vercel.app)  
+- 📧 babinjoe2945@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/babin-joe/)  
+- 🐙 [GitHub](https://github.com/BABIN-JOE)  
 
 ---
 
@@ -91,15 +93,15 @@
 
 ### ⚡ Fun Facts
 
-- 🎯 Passionate about **offline-first AI** — no internet, no problem.
-- 🎨 UI/UX minimalist – I believe clean interfaces empower users.
-- 🤝 Always open to **collaborations, internships, or freelance** tech gigs.
+- 🎯 Passionate about **offline-first AI** — no internet, no problem.  
+- 🎨 UI/UX minimalist – I believe clean interfaces empower users.  
+- 🤝 Always open to **collaborations, internships, or freelance** tech gigs.  
 
 ---
 
 ### 🧠 Philosophy
 
-> *"Code smart, build real. AI is the paintbrush — you’re the artist." – Babin Joe*
+> *"Code smart, build real. AI is the paintbrush — you’re the artist." – Babin Joe*  
 
 ---
 
