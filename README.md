@@ -20,12 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on:
-  - 🧠 [**NeuroDoc**](https://github.com/BABIN-JOE/NeuroDoc) – AI-powered document summarization with IDP & OCR  
-  - 🎙️ [**Fluent Edge**](https://github.com/BABIN-JOE/FLUENT-EDGE) – Real-time transcription + grammar analysis using Vosk & Flask  
-  - 🌐 [**Portfolio**](https://github.com/BABIN-JOE/Portfolio) – Personal Portfolio using Typescript, React.js and Tailwaind css  
-  - 🗣️ [**MOCK-MATE**](https://github.com/BABIN-JOE/MOCK-MATE) – Mock Interview Platform to develop our Interview and communication skills  
-  - 🎂 [**BIRTHDAY-WISH**](https://github.com/BABIN-JOE/BIRTHDAY-WISH) – A Birthday Wishing Website with animations and quotes  
+- 🔭 I’m currently working on:  
   - ⚕️ [**Healynx**] (Yet to be deployed) – Predictive AI Clinical Intelligence Platform and Medical Database  
 
 - 🌱 I’m exploring:
