@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:  
-  - ⚕️ [**Healynx**] (Yet to be deployed) – Predictive AI Clinical Intelligence Platform and Medical Database  
+  - ⚕️ [**Healynx**] – Predictive AI Clinical Intelligence Platform and Medical Database  
 
 - 🌱 I’m exploring:
   - 🤖 AI, SDE, ML, Robotics, Drones  
@@ -62,7 +62,7 @@
 | 🎤 [Fluent Edge](https://github.com/BABIN-JOE/FLUENT-EDGE) | Real-time speech transcription & grammar engine | Vosk, Flask, LanguageTool |
 | 🌐 [Portfolio](https://github.com/BABIN-JOE/Portfolio) | Personal portfolio with dark/light toggle | React, Typescript, Tailwind, Vercel |
 | 🎂 [BIRTHDAY-WISH](https://github.com/BABIN-JOE/BIRTHDAY-WISH) | A Birthday Wishing Website | React, Typescript, Vite, Vercel |
-| ⚕️ Healynx | Predictive AI Clinical Intelligence Platform | (Yet to be deployed) |
+| ⚕️ [Healynx](https://github.com/BABIN-JOE/Healynx) | Predictive AI Clinical Intelligence Platform | FastAPI, React, Typescript, MinIO, AES-GCM|
 
 ---
 
