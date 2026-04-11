@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:  
-  - ⚕️ [**Healynx**] – Predictive AI Clinical Intelligence Platform and Medical Database  
+  - ⚕️ [**Healynx**](https://github.com/BABIN-JOE/Healynx) – Predictive AI Clinical Intelligence Platform and Medical Database  
 
 - 🌱 I’m exploring:
   - 🤖 AI, SDE, ML, Robotics, Drones  
