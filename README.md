@@ -40,7 +40,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,ts,tailwind,vercel,supabase,git,vscode,tensorflow,html,css,js,firebase,mysql,cpp,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,ts,tailwind,vercel,supabase,git,vscode,firebase,mysql,postgresql,linux,bash" />
 </p>
 
 ---
