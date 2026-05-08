@@ -25,7 +25,7 @@
 
 - 🌱 I’m exploring:
   - 🤖 AI, SDE, ML, Robotics, Drones  
-  - 🧩 GIT, Firebase, Vercel  
+  - 🧩 GIT, Supabase, Vercel  
   - 🧠 IDP, OCR, NLP, CV  
 
 - 💬 Ask me about:
